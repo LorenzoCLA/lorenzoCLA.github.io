@@ -1,0 +1,28 @@
+/****************************************************************************
+* STYLE style.css        						                            *
+*                                                                           *
+* Auteur : LorenzoCLA		                                                *
+* Projet : le pense-bête                                                    *
+* Date   : jj.mm.aaaa                                                       *
+*                                                                           *
+* Modifications                                                             *
+*   Auteur  : ....................                                          *
+*   Date    : ....................                                          *
+*   Raisons : ....................							                *
+****************************************************************************/
+/****************************************************************************
+* PAGES LIÉS AU STYLE                                                       *
+*   index.html                                                              *
+****************************************************************************/
+
+/* Modifie l'entièreté des titres de taille niveau 1 */
+h1
+{ 
+    color: cadetblue;
+}
+
+/* Modifie l'entièreté des paragraphes */ 
+p
+{
+    color: darkslateblue;
+}
